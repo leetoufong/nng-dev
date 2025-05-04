@@ -1,6 +1,6 @@
 # nng-dev
 
-nng-dev dev proficiency test
+`nng-dev` dev proficiency test. Enjoy!
 
 ## Techstack
 
@@ -16,6 +16,11 @@ nng-dev dev proficiency test
 3. Run `npm i` to install dependencies
 4. Run `npm run dev` to run up a local version in browswer
 5. Go to `localhost:5173/nng-dev/dist/` to view
+
+## GitHub Pages
+
+CI/CD Pipeline is set to deploy to GitHub pages with `dist/` being base/root url. View the page at [https://leetoufong.github.io/nng-dev/dist/](https://leetoufong.github.io/nng-dev/dist/).
+
 
 ## Codesandbox
 
